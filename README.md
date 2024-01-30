@@ -38,6 +38,9 @@
 - [A Survey of Activity Recognition in Egocentric Lifelogging datasets](https://ieeexplore.ieee.org/document/7934659) - El Asnaoui Khalid, Aksasse Hamid, Aksasse Brahim, Ouanan Mohammed, 2017.
 - [Optical flow and scene flow estimation: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000480) - Mingliang Zhai, Xuezhi Xiang, Ning Lv, Xiangdong Kong,  2021.
 - [AutoML: A Survey of the State-of-the-Art](https://arxiv.org/abs/1908.00709) - Xin He, Kaiyong Zhao, Xiaowen Chu, 2021.
+- [A Survey of Deep Learning: From Activations to Transformers](https://arxiv.org/abs/2302.00722) - Johannes Schneider, Michalis Vlachos, 2023.
+- [Deep Learning: A Comprehensive Overview on Techniques, Taxonomy, Applications and Research Directions](https://link.springer.com/article/10.1007/s42979-021-00815-1) - Iqbal H. Sarker, 2021.
+- [A survey on deep learning and its applications](https://www.sciencedirect.com/science/article/abs/pii/S1574013721000198) - Shi Dong, Ping Wang, Khushnood Abbas, 2021.
 
 ### Egocentric Vision
 
