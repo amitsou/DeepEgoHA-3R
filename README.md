@@ -181,6 +181,7 @@
 - [EPIC-SOUNDS](https://epic-kitchens.github.io/epic-sounds/) - [**[paper]**](https://arxiv.org/abs/2302.00646)
 - [EasyCom-Clustering](https://arxiv.org/abs/2203.13166) - The first large-scale egocentric video face clustering dataset.  2022. [[paper]](https://arxiv.org/abs/2203.13166)
 - [First2Third-Pose](https://github.com/nudlesoup/First2Third-Pose) - A new paired synchronized dataset of nearly 2,000 videos depicting human activities captured from both first- and third-view perspectives.  2022. [[paper]](https://arxiv.org/abs/2201.02017)
+- [HMDB](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/) - A large human motion database [[paper]](https://arxiv.org/pdf/1505.04868.pdf)
 - [TREK-100](https://machinelearning.uniud.it/datasets/trek100/) - Object tracking in first person vision. WICCV 2021. [[paper]](https://openaccess.thecvf.com/content/ICCV2021W/VOT/html/Dunnhofer_Is_First_Person_Vision_Challenging_for_Object_Tracking_ICCVW_2021_paper.html)
 - [MECCANO](https://iplab.dmi.unict.it/MECCANO/) - 20 subject assembling a toy motorbike. WACV 2021. [[paper]](https://openaccess.thecvf.com/content/WACV2021/html/Ragusa_The_MECCANO_Dataset_Understanding_Human-Object_Interactions_From_Egocentric_Videos_in_WACV_2021_paper.html)
 - [EPIC-Kitchens 2020](https://epic-kitchens.github.io/2020-100) - Subjects performing unscripted actions in their native environments. IJCV 2021. [[paper]](https://link.springer.com/article/10.1007/s11263-021-01531-2)
